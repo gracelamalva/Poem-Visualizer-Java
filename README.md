@@ -4,6 +4,7 @@
 <h3>Contributors</h3>
 
 -Kiowe Smith https://github.com/kiowesmith21
+-Grace Lamalva https://github.com/gracelamalva
 
 <h3>Requirements</h3>
 
