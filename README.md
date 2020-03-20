@@ -1,12 +1,9 @@
 <h2>Poem Visualizer Java</h2>
-<h4>Insert awesome description or tagline here!</h5>
+<h4>Detects and highlights all rhymes from a given song or poem</h5>
 
 <h3>Contributors</h3>
 
-- Add the awesome people who worked on this with here
-- Preferably with their name and their username
-- And maybe a cool link to their Github
-- I'd add them if I knew them
+-Kiowe Smith https://github.com/kiowesmith21
 
 <h3>Requirements</h3>
 
